@@ -1,4 +1,4 @@
-## SE3100 Architecture Based Development: Sri Lanka Metrobus Service Platform
+## SE3100 Architecture Based Development: Lanka Metro Transit Platform
 
 This repository holds our case study assignment for the SE3100 Architecture Based Development module at SLIIT (Year 3, Semester 1, 2026).
 
